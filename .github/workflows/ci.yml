@@ -45,8 +45,8 @@ jobs:
           HOST: localhost
           PORT: 3000
           PGHOST: localhost
-          PGRPORT: 5432
-          PGRUSER: developer
+          PGPORT: 5432
+          PGUSER: developer
           PGPASSWORD: pass@123
           PGDATABASE: forumapi_test
           ACCESS_TOKEN_KEY: secret
